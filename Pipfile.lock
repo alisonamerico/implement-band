@@ -47,11 +47,8 @@
             "version": "==2.5.0"
         },
         "pyflakes": {
-            "hashes": [
-                "sha256:5e8c00e30c464c99e0b501dc160b13a14af7f27d4dffb529c556e30a159e231d",
-                "sha256:f277f9ca3e55de669fba45b7393a1449009cff5a37d1af10ebb76c52765269cd"
-            ],
-            "version": "==2.1.0"
+            "hashes": [],
+            "version": "==3.0.1"
         }
     }
 }
